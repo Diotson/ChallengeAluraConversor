@@ -1,0 +1,11 @@
+
+¶
+java:S4165"nRemove this useless assignment; "tasaDeConversion" already holds the assigned value along all execution paths.(æŒ‚£øÿÿÿÿ8´³™þò1J$df657b4a-d6ca-4bb4-9b11-200bcd4b8559
+x
+java:S1172"0Remove this unused method parameter "resultado".(ôäÀŠþÿÿÿÿ8·³™þò1J$d5de1531-d613-4613-b7b3-88ce18b04fb3
+w
+java:S1656"/Remove or correct this useless self-assignment.(æŒ‚£øÿÿÿÿ8º³™þò1J$06718337-e2b8-4423-8355-e5a97de62016
+Š
+java:S1128"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8Íë¦þò1J$c953ea4b-5897-4dd4-89fb-eb867f01b09a
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8þ·žþò1J$f7454616-a93e-43ba-9fb7-ac22ce71a39d
